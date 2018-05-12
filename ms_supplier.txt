@@ -2,15 +2,14 @@ Section			supplier copy	 ch
 App name		Mothership Supplier	 19 
 
 
-Short description 	(TEST)	
-Connect to drop shipping and wholesale partners to automate product, pricing, order, billing, and refund data transfer	 139 
+Short description 		
+Selling through with o
 
 Short description (Current)	
-Enterprise-level capability for all sizes of Shopify dropship suppliers. Orders, inventory, and payables synced in real-time with Mothership	 140 
-
+Integrated drop shipping and wholesale solution. Automate inventory, pricing, orders, billing, and logistics data flows between B2B partners --140 ch
 
 Selling Point 1	
-Create your own drop shipping network. Let vendors sell products from your inventory and receive an order in Shopify when they make a sale
+Integrated drop shipping and wholesale platform. Automate inventory, pricing, orders, billing, and logistics data flows for  
 
 
 Selling Point 2	Powerful and user-friendly inventory feeds to always stay in sync with your vendors	

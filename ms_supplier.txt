@@ -1,12 +1,33 @@
-Section			supplier copy	 ch 
-App name		Mothership Supplier	 19 
+
+*********************
 
 
-Short description 		
-Selling through with o
+App name		
+Mothership for Dropship Suppliers
+
+
+*********************
 
 Short description (Current)	
 Integrated drop shipping and wholesale solution. Automate inventory, pricing, orders, billing, and logistics data flows between B2B partners --140 ch
+
+*********************
+
+Key benefit 1
+
+EASY - Create a private drop shipping network and manage all your drop ship retailers from your Shopify dashboard
+
+Key benefit 2
+
+SMART - Touch-less order routing automatically routes drop ship orders from retailers to your Shopify store
+
+Key benefit 3
+
+POWERFUL - Inventory syncing constantly updates product info at every store in your network
+
+
+
+
 
 Selling Point 1	
 Integrated drop shipping and wholesale platform. Automate inventory, pricing, orders, billing, and logistics data flows for  

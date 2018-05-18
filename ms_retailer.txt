@@ -1,12 +1,14 @@
-Retailer Copy
-Mothership for Dropshippers
+Mothership for Dropship Retailers
 
-Touchless order processing. Advanced inventory syncing. Fully integrate with suppliers for enterprise-level dropshipping on a Shopify budget
-Touchless order processing gets drop ship orders to your suppliers instantly... effortlessly… and error-free
-Inventory syncing so advanced that you'll forget what a .csv file even is
+**********
 
-Automatically send orders to suppliers everytime you sell one of their items. Mothership always routes orders to the right supplier for zero-touch order processing and a seamless customer experience
+Short description:
 
+Your #1 Shopify supply chain automation solution. Connect directly to suppliers for simple, painless and shockingly cost-effective ecommerce
+
+**********
+
+Full description:
 
 "<h2>Focus on <I>selling more product</i>... not managing your suppliers</h2>
 <p>Mothership lets you focus on the things that matter in your business by automating your drop ship operations and giving you the power to drop ship from an unlimited number of Shopify suppliers in a private drop shipping network</p>"
@@ -29,7 +31,21 @@ Automatically send orders to suppliers everytime you sell one of their items. Mo
 We can show you how Mothership works, talk about your particular application, and answer any questions you have:
 <a href=""https://calendly.com/mothership/app_store_retailer"">Schedule A Demo</a>"
 
-Mothership for Suppliers, Zero 0ut
+**********
+
+Integrations:
+
+Mothership for Suppliers
+Zero 0ut
+StitchLabs
+Ordoro
+Skubana
+QuickBooks
+shipstation
+Trade Gecko
+
+**********
+
 We have flexible pricing options for every level of drop shipping activity and always provide the same high level of onboarding and product support, regardless of what plan you're on
 <p>Get a Private Drop Shipping Network with bandwidth for up to 5 suppliers for $150 / month. We have extensive experience building larger networks for Shopify Plus and Enterprise customers as well - please contact us to discuss your particular application</p>
 https://www.mothership.fm/?utm_source=App%20Store

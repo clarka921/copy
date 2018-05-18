@@ -1,5 +1,35 @@
+//////////
+
+https://convictional.com
+
 B2B dropshipping on autopilot
 
 Convictional is the dropshipping automation platform suppliers use to save time and grow faster
 
 Instantly integrate and sync with any online retailer on Shopify, WooCommerce, BigCommerce, and more.
+
+/////////
+
+https://www.orderhive.com
+
+Workflow Automation: Cut manual processing and human validation across the order processing and fulfillment workflow
+
+/////////
+
+eCommerce Fulfillment Integrations by DropStream
+getdropstream.com/
+eCommerce fulfillment integrations for 3PLs and fulfillment providers, easily connect your warehouse to shopping carts, marketplaces and ERPs.
+
+/////////
+
+https://en.wikipedia.org/wiki/Electronic_data_interchange
+
+EDI and other similar technologies save a company money by providing an alternative to, or replacing, information flows that require a great deal of human interaction and paper documents.
+
+ EDI and similar technologies allow a company to take advantage of the benefits of storing and manipulating data electronically without the cost of manual entry
+
+Another advantage of EDI is the opportunity to reduce or eliminate manual data entry errors, such as shipping and billing errors, because EDI eliminates the need to rekey documents on the destination side.
+
+One very important advantage of EDI over paper documents is the speed in which the trading partner receives and incorporates the information into their system thus greatly reducing cycle times. For this reason, EDI can be an important component of just-in-time production systems.[5]
+
+According to the 2008 Aberdeen report "A Comparison of Supplier Enablement around the World", only 34% of purchase orders are transmitted electronically in North America. In EMEA, 36% of orders are transmitted electronically and in APAC, 41% of orders are transmitted electronically. They also report that the average paper requisition to order costs a company $37.45 in North America, $42.90 in EMEA and $23.90 in APAC. With an EDI requisition to order costs are reduced to $23.83 in North America, $34.05 in EMEA and $14.78 in APAC.

@@ -8,8 +8,8 @@ Mothership for Dropship Suppliers
 
 *********************
 
-Short description (Current)	
-Integrated drop shipping and wholesale solution. Automate inventory, pricing, orders, billing, and logistics data flows between B2B partners --140 ch
+Short description	
+Makes onboarding and selling through even the largest, most complicated retail networks simple, painless and shockingly cost-effective
 
 *********************
 
@@ -41,30 +41,71 @@ Key Benefit 1 Title	Sell your inventory through up to 10 other Shopify stores in
 Key Benefit 2 Title	Automate relationships with network partners for growth	 55 
 Key Benefit 3 Title	Easy and Scalable	 17 
 
+*********************
+
+Full description
 
 
-Detailed Description1	"<h2>Focus on <I>growing</I> your Shopify drop ship operations, not managing them</h2>
-<p>Mothership lets you focus on the things that matter in your business by automating your drop ship operations and giving you the power to drop ship with an unlimited number of Shopify vendors in a private drop shipping network</p>"	 318 
-Detailed Description2	"<h2>Private Dropshipping Networks</h2>
-<p>When you connect to vendors with Mothership, you form a private drop shipping network that you control. Unlike social networks where everybody can connect to everybody else, the vendors in your private drop shipping network are connected only to you, have access to the products and pricing that you make available to them, and automatically send you orders when they sell one of your items<p> 
-<p>Adding vendors to your network is as simple as sending them an invitation through Mothership. They connect to you using our <a href=""https://apps.shopify.com/mothership-connect"">Vendor app</a> which enables them to add your inventory to their store, set their retail markup, manage drop ship orders, pay invoices and more</p>"	 765 
-	"<ul>
+<h2>Focus on growing your sales... not managing your drop ship accounts</h2>
+
+<p>Mothership lets you focus on the things that matter in your business by automating your drop ship operations and giving you the power to connect with an unlimited number of Shopify retailers in a private drop shipping network. That means there is a totally reliable, totally scalable solution to your problem of managing large, complicated, and diverse networks of drop shippers</p>
+
+<h2>Private Dropshipping Networks</h2>
+
+<p>When you connect to retailers with Mothership, you form a private drop shipping network that <I>you</I> control. Unlike social networks where everybody can connect to everybody else, the retailers in your private drop shipping network are connected only to you, have access to the products and pricing that you make available to them, and automatically send you orders when they sell one of your items<p> 
+
+<p>Adding retailers to your network is as simple as sending them an invitation through Mothership. They connect to your store using our <a href="https://apps.shopify.com/mothership-connect">Retailer app</a> which enables them to:</p>
+<ul>
 <li>Browse product catalogs that you've published</li>
-<li>Add items from catalogs to their store</li>
+<li>Import products from catalogs to their store</li>
 <li>Set their retail markup</li>
 <li>View their drop ship orders</li>
 <li>Pay invoices</li>
 <li>Process returns</li>
 </ul>
+<p>Mothership makes establishing and maintaining drop ship relationships so easy with its suite of automation functions that it doesn't just reduce the time it takes to administer a drop ship network, it will actually help you sell <I>more</I> because of how easy it is for retailers to join your network, interact with you, import products from your inventory, and send you orders</p>
 
-<p>Mothership makes establishing and maintaining drop ship relationships so easy with its suite of automation functions that it doesn't just reduce the time it takes to administer a drop ship network, it will actually help you sell <I>more</I> because of how easy it is for vendors to join your network, interact with you, pull from your inventory, and send you orders</p>"	 604 
-Detailed Description3	"""<h2>Mothership helps you grow your drop ship sales!</h2>
+<h2>Mothership helps you drive growth in your drop ship channel!</h2>
+
 <ul>
-<li>Streamline operations across your supply chain: Connect to vendors in a private drop shipping network and publish customized inventory feeds with just a few clicks</li>
-<li>Growth, not grind: Don't spend another minute managing drop ship inventory. Mothership keeps everyone updated on inventory levels, imagery, descriptions, etc., all synced in real-time across your network</li>
+<li>Streamline operations across your supply chain: Connect to retailers in a private drop shipping network and publish customized inventory feeds with just a few clicks</li>
+
+<li>Growth, not grind: Don't spend another minute managing drop ship inventory. Mothership keeps everyone updated with your current inventory levels and latest imagery, descriptions, etc., all synced in real-time across your network</li>
+
 <li>All your drop ship orders in your Shopify dashboard: Mothership routes drop ship orders from every store in your network to your Shopify order feed for fulfillment so everyone stays organized and in control</li>
-<li>Easy to set up, easy to use: Mothership runs inside your Shopify dashboard so its incredibly reliable and uses a familiar interface that suppliers and vendors can master with minimal training (which we provide, of course)</li>
-</ul>"""	 902 
+
+<li>Wholesale pricing: exert fine control over wholesale pricing and create multiple pricing tiers as unique as your trading partners</li>
+
+<li>Bill trading partners for each order or extend terms: Either way, Mothership lets you manage accounts, invoice and pay all from within your Shopify dashboard!</li>
+
+<li>Easy to set up, easy to use: Since Mothership runs inside your Shopify dashboard so its incredibly reliable and uses a familiar interface that suppliers and retailers can master with minimal training (which we provide, of course)</li>
+
+</ul>
+
+
+<h2>Schedule a demo with us today!</h2>
+<p>We'll show you how Mothership for Dropship Suppliers works, talk about your particular application, and answer any questions you have. We're available weekdays from 12 to 5 PM EDT (UTC -4): </p> 
+
+<a href="https://calendly.com/mothership/app_store_supplier"><h3>Schedule a demo</h3></a>
+
+<p>If none of the available times work for you, please contact us to set up a time that does. Please don't stay up until midnight just to talk to us! We will find a reasonable time that works for you!</p> 
+
+*********************
+
+Integrations:
+
+Mothership for Suppliers
+Zero 0ut
+StitchLabs
+Ordoro
+Skubana
+QuickBooks
+shipstation
+Trade Gecko
+
+
+
+ 
 		 -   
 		 -   
 Detailed Description5	"#Schedule a demo with us today!

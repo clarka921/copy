@@ -26,10 +26,44 @@ https://en.wikipedia.org/wiki/Electronic_data_interchange
 
 EDI and other similar technologies save a company money by providing an alternative to, or replacing, information flows that require a great deal of human interaction and paper documents.
 
- EDI and similar technologies allow a company to take advantage of the benefits of storing and manipulating data electronically without the cost of manual entry
+EDI and similar technologies allow a company to take advantage of the benefits of storing and manipulating data electronically without the cost of manual entry
 
 Another advantage of EDI is the opportunity to reduce or eliminate manual data entry errors, such as shipping and billing errors, because EDI eliminates the need to rekey documents on the destination side.
 
 One very important advantage of EDI over paper documents is the speed in which the trading partner receives and incorporates the information into their system thus greatly reducing cycle times. For this reason, EDI can be an important component of just-in-time production systems.[5]
 
 According to the 2008 Aberdeen report "A Comparison of Supplier Enablement around the World", only 34% of purchase orders are transmitted electronically in North America. In EMEA, 36% of orders are transmitted electronically and in APAC, 41% of orders are transmitted electronically. They also report that the average paper requisition to order costs a company $37.45 in North America, $42.90 in EMEA and $23.90 in APAC. With an EDI requisition to order costs are reduced to $23.83 in North America, $34.05 in EMEA and $14.78 in APAC.
+
+/////////
+
+https://www.shopify.com/guides/dropshipping/glossary
+
+Brick & Click Store: A retail outlet or business with at least one physical location and at least one ecommerce enabled website.
+
+Brick & Mortar Store: A retail outlet or business with at least one physical location.
+
+Comma Separated Values (CSV): A file type that stores data values. CSV files are often used to transfer product feeds.
+
+Content Management System (CMS): A software solution that makes it possible to create, edit, maintain, publish, and display content on the Internet from a single interface or administration tool. In the online retailing context, a CMS may be used to manage a stores product catalog.
+
+Distributor: A distribution business that inventories products from a number of manufacturers and sells to many retailers. Often distributors are able to offer shorter lead times than manufacturers and may sell in smaller quantities. It is common for distributors to charge a premium over a manufacturer-direct price for the service and convenience provided.
+
+Dropshipping / Drop Shipping: A fulfillment strategy wherein the retailer does not actually inventory the drop shipped product, but instead passes the shipping address to either the manufacturer, or a distributor that actually ships the purchased items directly to the customer. 
+
+Ecommerce: Buying and selling products over electronic networks, including the Internet or mobile applications. The term may apply specifically to electronic transactions or more generally to the online retailing and online business.
+
+Manufacturer: A company that makes goods for the purpose of sale
+
+Manufacturer’s Suggested Retail Price (MSRP): The price at which a manufacturer recommends that retailers sell a given product.
+
+MAP Pricing: Manufacturers may require retailers to sell or advertise a given product at a minimum price. This price floor is known as a minimum advertised price or a minimum acceptable price. Manufacturers vary in their MAP enforcement, with some cancelling retail dealer agreements, if sellers offer products below MAP.
+
+Net Terms: Credit term that a supplier extends to a retailer, allowing the retailer to pay for purchased items some number of days after those items have been shipped. Often net terms are described as “net 30,” “net 120,” or similar where net 30 means that a retailer has 30 days to pay for an order after that order has shipped. Frequently, net terms will also include a discount so that 5/10 net 30 would mean that a retailer would receive a 5-percent discount if the bill was paid in 10 days or less, otherwise the bill is due in 30 days. 
+
+Retailer: A company that sells directly to the end consumer.
+
+Supply Chain: A network or system of businesses involved in moving a product from its manufacturing point to the customer. In online retailing, the supply chain usually represents the distributor and manufacturer of a product.	
+
+Vertical: An industry segment made up of similar business and customers. 
+
+Good terminology, f/b's for MS Retailer: https://www.shopify.com/guides/dropshipping/infographic

@@ -84,6 +84,7 @@ We have a curated selection of mid-century furniture, scandinavian-inspired furn
 
 /////////
 
+
 From DuoPlane job posting...
 
 Can you tell me about Duoplane?
@@ -117,4 +118,46 @@ Caroline Li
 Glassheads Wholesale
 Home of UPC and Sesh Supply
 p: 844-710-4944
+
+/////////
+
+Mothership 3 sentence blurb:
+
+Mothership makes it easy for manufacturers and distributors to drop ship with other Shopify stores 
+
+1-click integration lets retailers import and sync inventory from suppliers and begin selling almost immediately; and powerful automation make pricing, order processing and billing instant, effortless, and error-free
+
+And, our friendly customer support team is always standing by to answer your emails or calls
+
+/////////
+
+https://magento.com/customers/gabor-shoes
+
+Inside Gabor’s Omnichannel Revolution //Magento use-case//
+
+The German footwear giant needed to grow its sales channels.
+
+Founded in 1919 by Pius Gabor, and restarted after the War in 1949 by his sons Joachim and Bernhard Gabor, the German footwear brand Gabor has spent almost 100 years building a strong reputation for their comfortable, quality footwear. Today, the company is run by Joachim Gabor’s son, Achim, and the brand prides itself on advanced manufacturing that produces both classic and contemporary styles – something for every season and style. Over the years Gabor has extended its quality craftsmanship to new products like handbags, and shoe care. The brand also invested in new technologies, including ‘Rollingsoft,’ a new shoe with a flexible sole, designed to aid wellness. Every year, Gabor sells nine million pairs of shoes to 5,000 dealers in more than 60 countries, with annual revenue surpassing €383 million ($467 million).
+
+With more than 3,000 designs in each collection, up to 100,000 SKUs on the marketplace, and hundreds of retail stores, there was an opportunity for Gabor to not only translate its legendary in-store experience to digital, but to catapult their retailers with a revolutionary fulfilment and order management system. The company has always positioned itself as a partner to retailers, and has thousands of stockists and brick-and-mortar stores across Europe, so their stock is decentralized. If Gabor Shoes could harness the power of technology, they could offer consumers the widest possible range of products, shorten delivery times, and enhance customer service. Done correctly, Gabor could create an omnichannel solution against which their online rivals could not compete.
+
+“We started by looking intensively into possible concepts and solutions and finally decided on the marketplace approach,” said Dr. Markus Reheis, Global Head of Marketing at Gabor. “This strategy certainly increases complexity compared to a standard online shop, but also offers us many advantages.” One of those advantages is that brick-and-mortar retailers can generate additional sales without having to operate their own online store. They soon realized that the platform they needed was Magento Commerce.
+
+A future-proof, flexible solution.
+
+Gabor joined forces with TechDivision GmbH, one of the leading Magento Solution Partners in the DACH region with over 40 in-house developers and official Magento Omnichannel Partner. Together they chose Magento Commerce 2.2 and Magento Order Management (MOM) to help them realize this ambitious vision. The future-proof and flexible solution met all of the brand’s key requirements: it seamless integrates into their existing IT infrastructure, offers a fast time-to-market and fair pricing, support for international growth, and maximum flexibility.
+
+“We needed to enable consumers to benefit from digital channels while supporting the existing retailer structures and partners as far as possible,” said TechDivision’s Stefan Willkommer. “The integration of the retail partners was, and still is, of great importance to Gabor.”
+
+Gabor would become the first brand in Europe to use Magento Commerce, Magento Order Management, and Magento Business Intelligence together to unify its inventory across owned stores, franchise operations, and multi-brand retailers. They implemented Magento Order Management (MOM) as middleware and a central data hub, with a Magento Commerce front-end. They used TechDivision’s M2IF extension, a powerful Magento 2 import framework, and their ‘PageDesigner’ to create new landing pages, while Magenerd’s ‘GermanLaw’ handled German legal issues. They boosted performance with Magenerds CacheWarmer, and BS PayOne Payment for payment, while seamlessly connecting Magento Commerce to Gabor Shoes’ ERP, CRM, and PIM systems.
+
+MOM is well-suited to companies like Gabor, with a large number of brick-and-mortar stores or a huge network of retailers. Gabor used MOM as a stock management system, linking their existing IT infrastructure (ERP), with their physical stores and logistics. All stock information, orders, and order processing is centralised in MOM and forwarded to the appropriate channels using highly-configurable rules. And most importantly, all the relevant information is available in real time, online. In their physical stores, they are planning to create a Progressive Web App (PWA) for Magento called Gabor Sales Generator, an endless aisle innovation that will be launched in selected branches this year. This digital extension of the storefront will allow customers in-store to access the entire Gabor collection on a tablet – creating the ‘endless aisle.’
+
+A win-win situation.
+
+In the first few weeks after their launch, Gabor saw some exciting results, and customers said they were ‘really impressed’ with the shop. The company’s goals and KPIs were achieved from the first day onwards, Gabor Shoes reported, and in some cases they were significantly exceeded. With 80 stores already connected, they will allocate over 400 retail stores as inventory sources in Germany by the end of 2018. This proves that the concept is pushing retail sales, their main KPI – prototype installations of the Gabor Sales Generator alone increased sales up to 20 percent.
+
+By involving retailers, Gabor merged the online and offline worlds and is turning eCommerce into commerce. Their retailers are reaping the rewards of the new infrastructure and actively participating in the initiative. They want to participate because when Gabor routes an order to them, they earn commission for the order. Gabor wins because they’re selling a product they don’t own – technically they’re buying back that pair of shoes through an intermediate purchase order, and tapping into inventory across the whole retail chain.
+
+Overall, Gabor are creating more sales, and retailers are profiting – a classic win-win situation for the brand and their retail partners. This leaves Gabor ready for the future. Thanks to the multi-client capabilities of Magento Commerce, they can easily roll out their new initiatives into international markets: In 2018, Gabor’s roadmap includes their first country-specific shop for Austria, which will be implemented quickly and securely on the existing platform.
 

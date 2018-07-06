@@ -1,35 +1,47 @@
-Mothership for Dropship Retailers
-
+Mothership Connect
 **********
 
 Short description:
 
-Your #1 Shopify supply chain automation solution. Connect directly to suppliers for simple, painless and shockingly cost-effective ecommerce
+Use Mothership Connect to connect to your suppliers and drop ship their online inventory from your store. Easy, simple, and great support!
+
+**********
+
+Selling points:
+
+Connect to Mothership Suppliers with just a click to add their inventory to your online store!
+
+Automate and chill- once you've added a product to your store, Mothership handles everything from inventory syncing to order routing
+
+No ridiculous upfront costs! Pay a flat, transparent commission only when you sell a product!
 
 **********
 
 Full description:
 
-"<h2>Focus on <I>selling more product</i>... not managing your suppliers</h2>
-<p>Mothership lets you focus on the things that matter in your business by automating your drop ship operations and giving you the power to drop ship from an unlimited number of Shopify suppliers in a private drop shipping network</p>"
-"# What does Mothership do?
-<p>Mothership lets Shopify stores connect together to form private drop shipping networks. Stores on the network act as Suppliers by creating product feeds and fulfilling orders; and Retailers by accepting product feeds and adding Supplier inventory to their site. <a href=""https://apps.shopify.com/mothership"">Mothership for Suppliers</a>and Mothership for Retailers</p>
-<p>Both apps run seamlessly in the Shopify dashboard and work together to form your private drop shipping network. Combined with a suite of automation functions, Mothership gives you unparalleled reach and efficiency to grow drop ship channel sales- whether you sell wholesale, retail, or both. Pretty cool, huh?</p>"
+<h2>Connect to Mothership Suppliers with just a click!</h2>
 
+<p>Download the app, enter a code provided by your supplier (or request one through the app) and you're ready to start adding products to your Shopify store!</p>
 
-"# How can my business use Mothership for Dropship Vendors?
-<p>Mothership's private drop shipping networks help Shopify stores solve the crucial problem of being able to offer customers what they want, where they want it. When you've got that, you've got growth! Simple, right?</p>
-<p>On our Basic Retail Plan, connect with up to 10 other Shopify stores and add up to 300 products from their inventories to your store. Control your pricing and pay suppliers using your Shopify payment account. Every time you sell a product added from one of your suppliers, Mothership will create a drop ship order and send it to your supplier's Shopify dashboard for fulfillment. Mothership can even notify you and your and customers of changes in fulfillment status. Add new suppliers with a few clicks and begin doing business immediately. And if you ever need to drop a supplier, Mothership will make sure to delete all their products from your inventory.</p>"
-"# Mothership helps you drive growth in your drop ship channel!
+<h2>Managing inventory is for suckers!</h2>
+
+<p>All you have to do is browse your supplier's inventory and add the products that you want to your store! Mothership will automatically:</p>
+
 <ul>
-<li> Streamline operations across your supply chain: Connect to other Shopify merchants in a private drop shipping network and add  products from their stores with a few clicks</li>
-<li>Growth, not grind: Don't spend another minute managing drop ship inventory. Mothership keeps everyone updated on inventory levels, imagery, descriptions, etc., all synced in real-time across your network</li>
-<li>All your drop ship orders in your Shopify dashboard: Mothership routes drop ship orders from every store in your network to your Shopify order feed for fulfillment to help you stay organized and in control</li>
-<li>Easy to set up, easy to use: Mothership runs inside your Shopify dashboard and was designed for simplicity and ease-of-use so anyone can use it with minimal training (which we provide, of course)</li>
-</ul>"
-"#Schedule a demo with us today!
-We can show you how Mothership works, talk about your particular application, and answer any questions you have:
-<a href=""https://calendly.com/mothership/app_store_retailer"">Schedule A Demo</a>"
+<li>Sync inventory</li>
+<li>Update product descriptions and prices</li>
+<li>Route orders to your supplier when you make a sale</li>
+<li>Send you an invoice for products you've sold</li>
+<li>...And more!</li>
+</ul>
+
+<p>It's really that simple! Maximize your store's PageRank and quality score by adding relevant (and in-stock) inventory from Mothership and increase conversions by having products available that your customers are searching for!</p>
+
+<h2>Awesome support whenever you need it!</h2>
+
+<p>Call us, email us, message us. We're here to help you succeed and are always available with fantastic product support. Just get in touch with us and we'll get you sorted!</p>
+
+
 
 **********
 
@@ -46,9 +58,4 @@ Trade Gecko
 
 **********
 
-We have flexible pricing options for every level of drop shipping activity and always provide the same high level of onboarding and product support, regardless of what plan you're on
-<p>Get a Private Drop Shipping Network with bandwidth for up to 5 suppliers for $150 / month. We have extensive experience building larger networks for Shopify Plus and Enterprise customers as well - please contact us to discuss your particular application</p>
-https://www.mothership.fm/?utm_source=App%20Store
-Supplier and Retailer apps, Connect to any 1 Shopify store, Limit 5000 products
-0
-0
+<p>Resellers are charged a 2.5% commission</p>

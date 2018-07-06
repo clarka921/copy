@@ -3,8 +3,14 @@
 
 
 App name		
-Mothership for Dropship Suppliers
+Mothership
 
+
+*********************
+
+Short description
+
+Offer all your retailers an automated and easy-to-use drop shipping program with Mothership
 
 *********************
 

@@ -1,0 +1,161 @@
+
+*********************
+
+
+App name		
+Mothership
+
+*********************
+
+Tagline
+Easy and powerful drop shipping platform
+
+*********************
+
+Short description
+
+Powerful Shopify dropshipping platform. Dropshippers can connect to you and automatically sync inventory, send orders and pay invoices
+
+*********************
+
+Selling points
+	
+Powerful Shopify dropshipping platform- Shopify stores connect with just a click and Mothership automates your entire dropshipping program
+
+Simple technology makes massively complex dropship programs easy to manage. Inventories sync at hundreds of stores, and orders flow effortlessly from dropshippers to suppliers. With Shopify and Mothership you can manage and scale a dropshipping program of any size and complexity
+
+...And we have incredible in-person support! Schedule a demo with us today to see how Mothership can help your dropshipping program grow!
+
+*********************
+
+Full description
+
+
+<h2>Manage and scale your dropshipping program with Shopify and Mothership</h2>
+
+<p>Mothership lets you focus on the things that matter in your business by automating your drop ship program and giving you the power to connect with an unlimited number of Shopify resellers in a private drop shipping network. That means there is a totally reliable, totally scalable solution to your problem of managing large, complicated, and diverse networks of drop shippers</p>
+
+<h2>Private Dropshipping Networks</h2>
+
+<p>When you connect to resellers with Mothership, you form a private drop shipping network that <I>you</I> control. Unlike social networks where everybody can connect to everybody else, the retailers in your private drop shipping network are connected only to you, have access to the products and pricing that you make available to them, and automatically send you orders when they sell one of your items<p> 
+
+<p>Adding a reseller to your network is as simple as sending them an invitation through Mothership. They connect to your store using our <a href="https://apps.shopify.com/mothership-connect">Mothership Connect</a> app, which enables them to:</p>
+<ul>
+<li>Browse product catalogs that you've published</li>
+<li>Import products from catalogs to their store</li>
+<li>Set their retail markup</li>
+<li>View their drop ship orders</li>
+<li>Pay invoices</li>
+<li>Process returns</li>
+</ul>
+<p>Mothership makes establishing and maintaining drop ship relationships so easy with its suite of automation functions that it doesn't just reduce the time it takes to administer a drop ship network, it will actually help you sell <I>more</I> because of how easy it is for retailers to join your network, interact with you, import products from your inventory, and send you orders</p>
+
+<h2>Mothership helps you drive growth in your drop ship channel!</h2>
+
+<ul>
+<li>Streamline operations across your supply chain: Connect to retailers in a private drop shipping network and publish customized inventory feeds with just a few clicks</li>
+
+<li>Growth, not grind: Don't spend another minute managing drop ship inventory. Mothership keeps everyone updated with your current inventory levels and latest imagery, descriptions, etc., all synced in real-time across your network</li>
+
+<li>All your drop ship orders in your Shopify dashboard: Mothership routes drop ship orders from every store in your network to your Shopify order feed for fulfillment so everyone stays organized and in control</li>
+
+<li>Wholesale pricing: exert fine control over wholesale pricing and create multiple pricing tiers as unique as your trading partners</li>
+
+<li>Bill trading partners for each order or extend terms: Either way, Mothership lets you manage accounts, invoice and pay all from within your Shopify dashboard!</li>
+
+<li>Easy to set up, easy to use: Since Mothership runs inside your Shopify dashboard so its incredibly reliable and uses a familiar interface that suppliers and retailers can master with minimal training (which we provide, of course)</li>
+
+</ul>
+
+<h2>Connect with us!</h2>
+<p>Send us an email, check us out on Facebook, or schedule a demo with us! We can answer your questions, talk about your particular application, and see if Mothership is the right platform for your drop shipping program. (You can even call us!.. the number is above on the right, and Yes, we will answer :) )</p>
+
+<ul>
+
+<li><h3><a href="mailto:support@mothership.fm">Send us an email</a></h3></li>
+
+<li><h3><a href="https://www.facebook.com/MOTHERSHIPtheAPP/">Like us on Facebook</a></h3></li>
+
+<li><h3><a href="https://calendly.com/mothership/mothership_demo">Schedule a demo</a></h3></li>
+
+</ul>
+
+*********************
+
+Pricing
+
+<p>Start hosting your dropshipping program on Mothership for just $299 per month. We have extensive experience building larger networks for Shopify Plus and Enterprise customers as well - please contact us to discuss your particular application</p>
+
+*********************
+
+Long description
+Mothership, enables manufacturers and distributors on the Shopify platform to offer their dropshippers 1-click integration with their stores, and the simplicity and scalibility to manage a network of any size and complexity right from their Shopify dashboard
+
+
+
+Give your dropship retailers complete access to your inventory- control wholesale pricing and shipping. Orders get routed straight to your Shopify account for fulfillment. Bill drop shippers per-order or offer them terms- Mothership enables invoicing them directly- and accurately and automatically.
+
+Because everything is automated and presented through your Shopify dashboard, you can manage large, complex networks of drop shippers with minimal effort. Mothership ensures all the product, pricing, order, logistics, and billing information between you and your drop shippers is instantly, accurately, and efficiently transmitted and organized.
+
+
+*********************
+
+Key benefit 1
+Easy-to-use platform for dropshipping your inventory in other Shopify stores
+
+Key benefit 2
+Seamless integration with your existing ERP/IM software
+
+Key benefit 3
+Completely painless reseller on-boarding and in-person support
+
+
+Selling Point 1	
+Integrated drop shipping and wholesale platform. Automate inventory, pricing, orders, billing, and logistics data flows for  
+
+
+Selling Point 2	Powerful and user-friendly inventory feeds to always stay in sync with your vendors	
+
+Selling Point 3	Smart order-routing so drop ship orders always land right in your Shopify store
+
+Key Benefit 1 Title	Sell your inventory through up to 10 other Shopify stores in a private drop shipping network	 92 
+Key Benefit 2 Title	Automate relationships with network partners for growth	 55 
+Key Benefit 3 Title	Easy and Scalable	 17 
+
+*********************
+
+
+*********************
+
+Integrations:
+
+Mothership for Suppliers
+Zero 0ut
+StitchLabs
+Ordoro
+Skubana
+QuickBooks
+shipstation
+Trade Gecko
+
+
+
+ 
+		 -   
+		 -   
+Detailed Description5	"#Schedule a demo with us today!
+We can show you how Mothership works, talk about your particular application, and answer any questions you have:
+<a href=""https://calendly.com/mothership/app_store_supplier"">Schedule A Demo</a>"	 225 
+Demo URL	<a href="https://calendly.com/mothership/app_store_supplier">Schedule A Demo</a>	 80 
+Integrations	Mothership for Retailers, Zero 0ut	 34 
+Pricing overview (Enhanced)	We have flexible pricing options for every level of drop shipping activity and always provide the same high level of onboarding and product support, regardless of what plan you're on	 182 
+Price (Current)	<p>Get a Private Drop Shipping Network with bandwidth for up to 5 vendors for $150 / month. We have extensive experience building larger networks for Shopify Plus and Enterprise customers as well - please contact us to discuss your particular application</p>	 258 
+Pricing URL	https://www.mothership.fm/?utm_source=App%20Store	 49 
+Plan 1	Supplier and Retailer apps, Connect to any 1 Shopify store, Limit 5000 products	 79 
+Plan 2		 -   
+
+*********************
+
+Unlimited retailer connections
+Unlimited transactions
+Live support

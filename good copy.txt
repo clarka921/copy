@@ -161,3 +161,10 @@ By involving retailers, Gabor merged the online and offline worlds and is turnin
 
 Overall, Gabor are creating more sales, and retailers are profiting – a classic win-win situation for the brand and their retail partners. This leaves Gabor ready for the future. Thanks to the multi-client capabilities of Magento Commerce, they can easily roll out their new initiatives into international markets: In 2018, Gabor’s roadmap includes their first country-specific shop for Austria, which will be implemented quickly and securely on the existing platform.
 
+/////////
+Aircall- HelpScout app
+
+Aircall is a lightweight phone system for support or sales teams. Pick a local phone number from wherever you are in the world, receive voicemails, assign calls to team members, and direct calls to any phone number from any device.
+
+The Help Scout integration helps synchronize all your customer information and history from Aircall. Automatically log all voicemails and calls from Aircall into Help Scout, and choose the data that you want to sync between Aircall and Help Scout according to your needs. Change the customer on calls and voicemails to sync phone call records to your customer's profile in Help Scout, keeping all of your customer information in one place.
+

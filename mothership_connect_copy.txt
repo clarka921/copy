@@ -3,7 +3,7 @@ Mothership Connect
 
 Short description:
 
-Get access to your supplier's Mothership drop shipping program
+Mothership Connect lets Shopify stores access the Mothership dropshipping platform. Import products to your store for risk-free online sales
 
 **********
 
